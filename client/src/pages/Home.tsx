@@ -188,8 +188,8 @@ export default function Home() {
             className="grid grid-cols-1 md:grid-cols-3 gap-8"
           >
             {/* Menu Item 1 */}
-            <motion.div variants={fadeIn} className="bg-card rounded-3xl p-6 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 border border-border/50 group">
-              <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative">
+            <motion.div variants={fadeIn} className="bg-card rounded-3xl p-6 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 border border-border/50 group flex flex-col">
+              <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative shrink-0">
                 {/* salmon toast or brunch */}
                 <img 
                   src="https://images.unsplash.com/photo-1525385133512-2f3bdd039054?w=600&q=80" 
@@ -201,12 +201,12 @@ export default function Home() {
                 </div>
               </div>
               <h3 className="text-2xl font-display mb-2">Formule Brunch</h3>
-              <p className="text-muted-foreground mb-4 line-clamp-2">L'expérience complète : boisson chaude, jus frais, assiette salée et douceur sucrée du jour.</p>
+              <p className="text-muted-foreground mb-4">L'expérience complète : boisson chaude, jus frais, assiette salée et douceur sucrée du jour.</p>
             </motion.div>
 
             {/* Menu Item 2 */}
-            <motion.div variants={fadeIn} className="bg-card rounded-3xl p-6 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 border border-border/50 group">
-              <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative">
+            <motion.div variants={fadeIn} className="bg-card rounded-3xl p-6 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 border border-border/50 group flex flex-col">
+              <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative shrink-0">
                 {/* quiche slice */}
                 <img 
                   src="https://pixabay.com/get/g889abd47463241edee098a3e53931a2a01c09ac6d74bfeaa3c39f5da25508c1979d20fa0217c70104abe28b299423112c6851faed05df59feb29fef119f639c2_1280.jpg" 
@@ -218,12 +218,12 @@ export default function Home() {
                 </div>
               </div>
               <h3 className="text-2xl font-display mb-2">Quiches de Saison</h3>
-              <p className="text-muted-foreground mb-4 line-clamp-2">Nos fameuses quiches, préparées chaque matin avec les légumes bio du marché. Option végé toujours dispo !</p>
+              <p className="text-muted-foreground mb-4">Nos fameuses quiches, préparées chaque matin avec les légumes bio du marché. Option végé toujours dispo !</p>
             </motion.div>
 
             {/* Menu Item 3 */}
-            <motion.div variants={fadeIn} className="bg-card rounded-3xl p-6 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 border border-border/50 group">
-              <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative">
+            <motion.div variants={fadeIn} className="bg-card rounded-3xl p-6 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 border border-border/50 group flex flex-col">
+              <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative shrink-0">
                 {/* avocado toast or salad */}
                 <img 
                   src="https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=600&q=80" 
@@ -235,7 +235,7 @@ export default function Home() {
                 </div>
               </div>
               <h3 className="text-2xl font-display mb-2">Toasts Saumon & Végé</h3>
-              <p className="text-muted-foreground mb-4 line-clamp-2">Pain au levain, saumon fumé de qualité, avocat frais ou options 100% végétales pleines de couleurs.</p>
+              <p className="text-muted-foreground mb-4">Pain au levain, saumon fumé de qualité, avocat frais ou options 100% végétales pleines de couleurs.</p>
             </motion.div>
           </motion.div>
           
