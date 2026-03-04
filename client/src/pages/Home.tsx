@@ -71,9 +71,9 @@ export default function Home() {
                 <a href="#menu">Voir le Menu</a>
               </Button>
               <Button asChild variant="outline" size="lg" className="rounded-full text-base h-14 px-8 border-2 hover:bg-secondary/10 hover:text-secondary-foreground hover:border-secondary transition-all duration-300">
-                <a href="tel:026733746">
+                <a href="https://wa.me/32486225017" target="_blank" rel="noopener noreferrer">
                   <Phone className="mr-2 h-4 w-4" />
-                  Nous Appeler
+                  Réserver via WhatsApp
                 </a>
               </Button>
             </div>

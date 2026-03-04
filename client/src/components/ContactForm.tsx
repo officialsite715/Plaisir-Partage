@@ -29,6 +29,11 @@ export function ContactForm() {
   });
 
   function onSubmit(data: ContactMessageInput) {
+    const whatsappMessage = encodeURIComponent(
+      `Bonjour Plaisir Partagé !\n\nJe souhaite faire une réservation.\n\nNom : ${data.name}\nE-mail : ${data.email}\nMessage : ${data.message}`
+    );
+    window.open(`https://wa.me/32486225017?text=${whatsappMessage}`, "_blank");
+    
     submitMutation.mutate(data, {
       onSuccess: () => {
         form.reset();
