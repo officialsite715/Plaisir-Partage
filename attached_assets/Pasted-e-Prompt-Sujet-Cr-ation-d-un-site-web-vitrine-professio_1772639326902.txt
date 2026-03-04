@@ -1,0 +1,51 @@
+e Prompt
+Sujet : Création d'un site web vitrine professionnel pour le restaurant de brunch "Plaisir Partagé".
+
+Identité de marque & Style :
+
+Atmosphère : Chaleureuse, lumineuse, moderne et conviviale (vibe "bohème chic" ou "scandinave").
+
+Valeurs : Produits frais, cuisine bio, fait maison, inclusivité (LGBTQ+ friendly).
+
+Localisation : Watermael-Boitsfort (Bruxelles).
+
+Palette de couleurs suggérée : Tons naturels (vert sauge, terracotta léger, crème) pour refléter le côté bio et frais.
+
+Structure de la page (One-page privilégiée) :
+
+Section Hero : Titre "Plaisir Partagé - Le Brunch Incontournable à Watermael-Boitsfort". Sous-titre : "Une cuisine fraîche, savoureuse et bio pour des moments suspendus." Bouton d'action (CTA) : "Voir le Menu" et "Nous Appeler".
+
+À propos : Présenter l'établissement comme un lieu de cœur à Bruxelles où l'accueil est aussi chaleureux que les plats. Mentionner la note client de 4.8/5.
+
+Le Menu (Highlights) : Mettre en avant la "Formule Brunch", les quiches, le saumon et les options végétariennes. Préciser la fourchette de prix (10€-20€).
+
+Témoignages (Social Proof) : Inclure des citations de clients comme "On a mangé comme des reines !" ou "Un vrai plaisir pour les yeux et les papilles".
+
+Informations Pratiques :
+
+Adresse : Rue du Ministre 26, 1170 Watermael-Boitsfort.
+
+Contact : 02 673 37 46.
+
+Horaires : Indiquer les horaires (ouvert dès 9h le jeudi).
+
+Services : Sur place et à emporter (pas de livraison).
+
+Réseaux Sociaux : Lien vers Instagram.
+
+Pied de page : Carte Google Maps intégrée et icônes de contact.
+
+Instructions techniques :
+
+Design mobile-first (la plupart des clients cherchent un brunch sur leur téléphone).
+
+Typographie élégante et lisible.
+
+Intégration d'espaces pour des photos de haute qualité (food et terrasse).
+
+Pourquoi ce prompt fonctionne ?
+Précision locale : En mentionnant Watermael-Boitsfort et Bruxelles, vous optimisez le futur référencement naturel (SEO).
+
+Preuve sociale : L'utilisation des vrais avis clients renforce immédiatement la confiance.
+
+Arguments de vente (USP) : Le focus sur le "Bio" et le "Fait maison" justifie le prix et attire la cible idéale.
