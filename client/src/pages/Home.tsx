@@ -88,7 +88,7 @@ export default function Home() {
             <div className="absolute inset-0 bg-accent/20 blob-shape-1 transform rotate-12 scale-105 z-0 blur-2xl"></div>
             {/* aesthetic top-down brunch layout */}
             <img 
-              src="https://www.istockphoto.com/en/photo/valentines-or-mothers-day-breakfast-table-scene-on-a-dark-wood-background-with-heart-gm1294939955-388806618?searchscope=image%2Cfilm"
+              src="https://unsplash.com/fr/photos/viande-tranchee-sur-une-planche-a-decouper-en-bois-brun-G3qon8dYVEE"
             />
             
             {/* Floating badge */}
