@@ -88,9 +88,7 @@ export default function Home() {
             <div className="absolute inset-0 bg-accent/20 blob-shape-1 transform rotate-12 scale-105 z-0 blur-2xl"></div>
             {/* aesthetic top-down brunch layout */}
             <img 
-              src="https://pixabay.com/get/gd3c5ccfbaf18bf1c31b72470d08fb98fd9dbf6f468523994642832e1f92ae821656e4e36ff1995b0365fddcbbcf4f65fc384a71ef54aaa522b49736f1b19a875_1280.jpg" 
-              alt="Délicieux brunch Plaisir Partagé" 
-              className="relative z-10 w-full max-w-md lg:max-w-full h-auto aspect-[4/5] object-cover blob-shape-2 shadow-2xl shadow-black/10 border-8 border-card"
+              src="https://www.instagram.com/plaisir___partage/p/DDjqB8ktBx7/"
             />
             
             {/* Floating badge */}
@@ -123,7 +121,7 @@ export default function Home() {
               <div className="absolute -inset-4 bg-primary/10 rounded-[3rem] -rotate-3 z-0"></div>
               {/* cozy cafe interior */}
               <img 
-                src="https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&q=80" 
+                src="https://www.instagram.com/plaisir___partage/p/DB3PGn5NYlc/" 
                 alt="Intérieur chaleureux du restaurant" 
                 className="relative z-10 rounded-[2.5rem] shadow-xl w-full object-cover aspect-square"
               />
@@ -192,7 +190,7 @@ export default function Home() {
               <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative shrink-0">
                 {/* salmon toast or brunch */}
                 <img 
-                  src="https://images.unsplash.com/photo-1525385133512-2f3bdd039054?w=600&q=80" 
+                  src="https://www.instagram.com/plaisir___partage/reel/DL1jaoLt9Xt/" 
                   alt="Formule Brunch" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
@@ -209,7 +207,7 @@ export default function Home() {
               <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative shrink-0">
                 {/* quiche slice */}
                 <img 
-                  src="https://pixabay.com/get/g889abd47463241edee098a3e53931a2a01c09ac6d74bfeaa3c39f5da25508c1979d20fa0217c70104abe28b299423112c6851faed05df59feb29fef119f639c2_1280.jpg" 
+                  src="https://www.instagram.com/plaisir___partage/p/DCEW2iEtVhp/" 
                   alt="Quiches Maison" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
@@ -226,7 +224,7 @@ export default function Home() {
               <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative shrink-0">
                 {/* avocado toast or salad */}
                 <img 
-                  src="https://images.unsplash.com/photo-1543339308-43e59d6b73a6?w=600&q=80" 
+                  src="https://www.instagram.com/plaisir___partage/p/C8ypfeQtdbT/" 
                   alt="Toasts & Salades" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
@@ -347,7 +345,7 @@ export default function Home() {
                 </div>
                 {/* In a real app, embed iframe here */}
                 <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2521.4385150821865!2d4.4077673!3d50.8038753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c5c163013d11%3A0x6e788bc27db30058!2sRue%20du%20Ministre%2026%2C%201170%20Watermael-Boitsfort!5e0!3m2!1sfr!2sbe!4v1700000000000!5m2!1sfr!2sbe" 
+                  src="https://www.instagram.com/plaisir___partage/p/DCEW2iEtVhp/" 
                   width="100%" 
                   height="100%" 
                   style={{ border: 0 }} 
