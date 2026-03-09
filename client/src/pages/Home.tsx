@@ -88,7 +88,7 @@ export default function Home() {
             <div className="absolute inset-0 bg-accent/20 blob-shape-1 transform rotate-12 scale-105 z-0 blur-2xl"></div>
             {/* aesthetic top-down brunch layout */}
             <img 
-              src="https://www.instagram.com/plaisir___partage/p/DDjqB8ktBx7/"
+              src="https://www.istockphoto.com/en/photo/valentines-or-mothers-day-breakfast-table-scene-on-a-dark-wood-background-with-heart-gm1294939955-388806618?searchscope=image%2Cfilm"
             />
             
             {/* Floating badge */}
@@ -121,7 +121,7 @@ export default function Home() {
               <div className="absolute -inset-4 bg-primary/10 rounded-[3rem] -rotate-3 z-0"></div>
               {/* cozy cafe interior */}
               <img 
-                src="https://www.instagram.com/plaisir___partage/p/DB3PGn5NYlc/" 
+                src="https://www.istockphoto.com/en/photo/healthy-summer-breakfast-gm948943422-259056580?searchscope=image%2Cfilm" 
                 alt="Intérieur chaleureux du restaurant" 
                 className="relative z-10 rounded-[2.5rem] shadow-xl w-full object-cover aspect-square"
               />
@@ -190,7 +190,7 @@ export default function Home() {
               <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative shrink-0">
                 {/* salmon toast or brunch */}
                 <img 
-                  src="https://www.instagram.com/plaisir___partage/reel/DL1jaoLt9Xt/" 
+                  src="https://www.istockphoto.com/en/photo/table-full-of-various-fresh-food-in-luxury-modern-restaurant-gm1457259411-492086731?searchscope=image%2Cfilm" 
                   alt="Formule Brunch" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
@@ -207,7 +207,7 @@ export default function Home() {
               <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative shrink-0">
                 {/* quiche slice */}
                 <img 
-                  src="https://www.instagram.com/plaisir___partage/p/DCEW2iEtVhp/" 
+                  src="https://www.istockphoto.com/en/photo/crepes-thin-pancakes-with-cream-cheese-ricotta-and-fresh-strawberries-marble-gm2179326131-598532053?searchscope=image%2Cfilm" 
                   alt="Quiches Maison" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
@@ -224,7 +224,7 @@ export default function Home() {
               <div className="h-48 w-full rounded-2xl overflow-hidden mb-6 relative shrink-0">
                 {/* avocado toast or salad */}
                 <img 
-                  src="https://www.instagram.com/plaisir___partage/p/C8ypfeQtdbT/" 
+                  src="https://www.istockphoto.com/en/photo/breakfast-coffee-table-gm1772714735-546002409?searchscope=image%2Cfilm" 
                   alt="Toasts & Salades" 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
@@ -345,7 +345,7 @@ export default function Home() {
                 </div>
                 {/* In a real app, embed iframe here */}
                 <iframe 
-                  src="https://www.instagram.com/plaisir___partage/p/DCEW2iEtVhp/" 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2521.4385150821865!2d4.4077673!3d50.8038753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c5c163013d11%3A0x6e788bc27db30058!2sRue%20du%20Ministre%2026%2C%201170%20Watermael-Boitsfort!5e0!3m2!1sfr!2sbe!4v1700000000000!5m2!1sfr!2sbe" 
                   width="100%" 
                   height="100%" 
                   style={{ border: 0 }} 
