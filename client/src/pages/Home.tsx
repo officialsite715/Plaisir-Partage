@@ -88,7 +88,7 @@ export default function Home() {
             <div className="absolute inset-0 bg-accent/20 blob-shape-1 transform rotate-12 scale-105 z-0 blur-2xl"></div>
             {/* aesthetic top-down brunch layout */}
             <img 
-              src="https://unsplash.com/fr/photos/viande-tranchee-sur-une-planche-a-decouper-en-bois-brun-G3qon8dYVEE"
+              src="https://images.unsplash.com/photo-1604095584695-748329883cf5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGVsaWNpb3VzJTIwYnJ1bmNofGVufDB8fDB8fHww"
             />
             
             {/* Floating badge */}
